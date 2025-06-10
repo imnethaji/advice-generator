@@ -32,6 +32,8 @@ This React application fetches and displays random advice from the [Advice Slip 
 - Each piece of advice comes with a unique ID
 - A loading state is shown while fetching new advice
 
+---
+
 ## What I learned
 
 - How to work with external APIs using Axios
@@ -39,6 +41,8 @@ This React application fetches and displays random advice from the [Advice Slip 
 - Managing component state with useState
 - Using useEffect for initial data fetching
 - Handling asynchronous operations
+
+---
 
 ## Continued development
 
